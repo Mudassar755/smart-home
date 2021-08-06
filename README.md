@@ -4,6 +4,6 @@
   </a>
 </p>
 <h1 align="center">
-  SMart-Home Care
+  Smart-Home Safety
 </h1>
     ``
