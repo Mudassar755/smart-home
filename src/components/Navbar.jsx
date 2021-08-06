@@ -18,8 +18,8 @@ const Navbar = () => {
                     <div class="menu_area">
                         <ul>
                             <li><Link to="/">Home</Link></li>
-                            <li><Link href="/about-us">About Us</Link></li>
-                            <li><Link class="active" to="/product-services">Products & Services</Link></li>
+                            <li><Link to="/about-us">About Us</Link></li>
+                            <li><Link to="/product-services">Products & Services</Link></li>
                             <li><Link to="/contact-us">Contact us</Link></li>
                             <li><Link to="/login">Login/Sign Up</Link></li> 
                         </ul>
